@@ -1,5 +1,5 @@
 # Implementing AWS WAF with ALB to Safeguard Against SQL Injection, Geo Location, and Query String Threats.
-![image](https://github.com/user-attachments/assets/275d1961-fc1c-4c0f-871b-8d79584b58f4)
+![286031121-6093f21f-8b6f-420b-b4e6-65c86a55fe2a](https://github.com/user-attachments/assets/6fbf247a-1b2c-47dc-a5a5-810a84870888)
 
 
 ## Instance
